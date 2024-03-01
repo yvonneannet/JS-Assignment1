@@ -80,3 +80,32 @@ color: white;
     grid-template-rows: 12% 12%;
 
  }
+ #explore{
+    font-size: 37px;
+    float: inline-end;
+ }
+ #seeall{
+    border-radius: 25px;
+    padding: 15px 43px;
+    font-weight: bold;
+    float: inline-end;
+ }
+ #overlay-text{
+    position: absolute;
+    top: 50%; 
+    inset-inline-start: 23%;
+    transform: translate(-50%, -50%); 
+    color:white;
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align:start;}
+    
+#footer{
+
+}
+.paragraph{
+display:flex;
+gap:1px;
+justify-content: space-evenly;
+
+}
